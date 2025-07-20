@@ -11,5 +11,5 @@ pip install -r requirements.txt
 
 2. Запусти бота:
 ```
-BOT_TOKEN=твой_токен python start_bot.py
+BOT_TOKEN=7614490851:AAEzXb6sUeHc8mogxE5CvuO8H4uHRheDL3U python start_bot.py
 ```
